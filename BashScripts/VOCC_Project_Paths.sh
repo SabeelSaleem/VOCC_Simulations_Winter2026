@@ -1,0 +1,13 @@
+export Project_Name="VOCC_Simulation"
+export Env_Name="$Env_Name"
+export Python_Ver="$Python_Ver"
+
+export Project_Root_Dir="$Project_Root_Dir"
+export Scripts_Dir="\$Project_Root_Dir/scripts"
+export Pseudopotentials_Dir="\$Project_Root_Dir/pseudopotentials"
+export Efficiency_Pseudopotentials_Dir="\$Pseudopotentials_Dir/SSSP_Efficiency"
+export Precision_Pseudopotentials_Dir="\$Pseudopotentials_Dir/SSSP_Precision"
+export Structures_Dir="\$Project_Root_Dir/structures"
+export Inputs_Dir="\$Project_Root_Dir/inputs"
+export Outputs_Dir="\$Project_Root_Dir/outputs"
+export Calculations_Dir="\$Project_Root_Dir/calculations"
