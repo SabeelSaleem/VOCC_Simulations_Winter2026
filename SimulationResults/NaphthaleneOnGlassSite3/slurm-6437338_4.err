@@ -1,0 +1,122 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"glibc/2.34-gcc-13.2.0-dtclx3b"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "glibc/2.34-gcc-13.2.0-dtclx3b"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: The following module(s) are unknown:
+"gcc-runtime/13.2.0-gcc-13.2.0-24uno5v"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "gcc-runtime/13.2.0-gcc-13.2.0-24uno5v"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: The following module(s) are unknown:
+"miniforge3/4.8.3-4-Linux-x86_64-gcc-13.2.0"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "miniforge3/4.8.3-4-Linux-x86_64-gcc-13.2.0"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+slurmstepd: error: *** STEP 6437342.0 ON compute121 CANCELLED AT 2026-02-25T11:25:48 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 6437342 ON compute121 CANCELLED AT 2026-02-25T11:25:48 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007FC5F1B6DC30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007FC4F0C8EA33  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007FC055B7CC30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007FBF54C9DD51  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F87124ACC30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F86115CDCA6  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F7CCCADBC30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F7BCBBFCCE2  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007FE613A22C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007FE512B43CE7  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F23F684EC30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F22F596FDEE  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F9D2E85DC30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F9C2D97EDB0  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F69F6F65C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F68F6086DBB  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007FC42A895C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007FC3299B6A7C  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F975CDC2C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F965BEE3CEC  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007FB56AB17C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007FB469C38AE6  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007FE0B93ECC30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007FDFB850DDE1  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007FC61F944C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007FC51EA65A96  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007FA8530FAC30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007FA75221BC5D  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F051DA8AC30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F041CBABA3D  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F4E4F429C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F4D4E54ADF6  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F2796044C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F2695165C8C  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F7ABA587C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F79B96A899E  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F8B155A5C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F8A146C6C4D  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007FD54C3CAC30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007FD44B4EBC4D  mkl_blas_avx2_zge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F31058B9C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F30049DACE7  mkl_blas_avx2_zge     Unknown  Unknown

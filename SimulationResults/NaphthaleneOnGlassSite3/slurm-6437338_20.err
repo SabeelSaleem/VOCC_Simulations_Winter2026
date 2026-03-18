@@ -1,0 +1,38 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"glibc/2.34-gcc-13.2.0-dtclx3b"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "glibc/2.34-gcc-13.2.0-dtclx3b"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: The following module(s) are unknown:
+"gcc-runtime/13.2.0-gcc-13.2.0-24uno5v"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "gcc-runtime/13.2.0-gcc-13.2.0-24uno5v"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: The following module(s) are unknown:
+"miniforge3/4.8.3-4-Linux-x86_64-gcc-13.2.0"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "miniforge3/4.8.3-4-Linux-x86_64-gcc-13.2.0"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+slurmstepd: error: *** JOB 6438134 ON compute089 CANCELLED AT 2026-02-28T13:59:38 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 6438134.0 ON compute089 CANCELLED AT 2026-02-28T13:59:38 DUE TO TIME LIMIT ***

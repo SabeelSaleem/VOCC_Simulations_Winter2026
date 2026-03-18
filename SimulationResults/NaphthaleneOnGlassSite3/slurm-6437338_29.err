@@ -1,0 +1,50 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"glibc/2.34-gcc-13.2.0-dtclx3b"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "glibc/2.34-gcc-13.2.0-dtclx3b"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: The following module(s) are unknown:
+"gcc-runtime/13.2.0-gcc-13.2.0-24uno5v"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "gcc-runtime/13.2.0-gcc-13.2.0-24uno5v"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: The following module(s) are unknown:
+"miniforge3/4.8.3-4-Linux-x86_64-gcc-13.2.0"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "miniforge3/4.8.3-4-Linux-x86_64-gcc-13.2.0"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+slurmstepd: error: *** STEP 6438709.0 ON compute118 CANCELLED AT 2026-03-02T11:26:27 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 6438709 ON compute118 CANCELLED AT 2026-03-02T11:26:27 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F8EC4FC4C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F8DC5E55446  mkl_dft_avx2_owns     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F15F0A32C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F14F18C345E  mkl_dft_avx2_owns     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          00007F0E0B9E3C30  Unknown               Unknown  Unknown
+libmkl_avx2.so.2   00007F0D0C874455  mkl_dft_avx2_owns     Unknown  Unknown
